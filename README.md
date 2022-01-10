@@ -10,4 +10,8 @@ https://archive.ics.uci.edu/ml/datasets/ionosphere
 
 # Tecnologias necessarias para rodar o software
 
-- 
+- RStudio
+- R 
+
+# Como rodar o software 
+
