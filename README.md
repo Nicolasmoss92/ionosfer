@@ -13,5 +13,5 @@ https://archive.ics.uci.edu/ml/datasets/ionosphere
 - RStudio
 - R 
 
-# Como executar o programa:
+
 
